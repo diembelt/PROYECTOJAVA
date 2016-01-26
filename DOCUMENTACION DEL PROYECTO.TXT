@@ -1,0 +1,9 @@
+Documentacion de proyecto
+
+TITULO DEL PROYECTO: PROYECTO PARCIAL DE FUNDAMENTOS DE JAVA- DOMOTICA
+
+VERSION: 1.0 , 13.12.2015
+COMO ARRANCAR EL PROYECTO: Ejecutar el metodo main de la clase Principal
+AUTORES: Beltran, Escobar, Hurtares, Coronel
+INSTRUCCIONES PARA EL USUARIO: Siga las pautas que se indican en la ejecucion proyecto
+JAVADOC: Dentro de la carpeta javadoc, abrir el archivo llamado index-JAVADOC-FORMATO HTML
